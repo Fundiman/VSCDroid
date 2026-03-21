@@ -1,5 +1,5 @@
-# VSCodeASOP
-A Better and improved version of my old port of VSCode for Android (https://www.github.com/Fundiman/VSCodeAndroid).
+# VSDroid
+A full rewrite of my old port of VSCode for Android (https://www.github.com/Fundiman/VSCodeAndroid).
 
 ## History
 You probably remember **VSCodeAndroid**, my old repo which was a *VSCode Port for android*! Well I had archived that repo and my source code was lost (I had permanently deleted it by accident) and then I forgot about the project.
@@ -13,6 +13,7 @@ I received a message from a developer asking for the source code of my old proje
 - To make sure this port is complete and not like the old one
 - Listen to other people's suggestions and feedback to improve the project
 - Work on this project once a millennium
+- Actually screw all of those, I'm gonna rewrite everything!
 
 ---
 
