@@ -1,4 +1,4 @@
-# VCSDroid
+# VSCDroid
 A full rewrite of my old port of VSCode for Android (https://www.github.com/Fundiman/VSCodeAndroid).
 
 ## History
